@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mahabur Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<img src="https://img.freepik.com/free-vector/no-data-concept-illustration_114360-695.jpg?w=740&t=st=1704295132~exp=1704295732~hmac=5c79e58fc1bfb4a31d2e7a3b4c49e67d7bde62bc26fe6d3d9106ccdb3d256bd5" align="right" width="400" alt="">
-
 - 📚 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://visionary-kringle-627e91.netlify.app/](https://visionary-kringle-627e91.netlify.app/)
